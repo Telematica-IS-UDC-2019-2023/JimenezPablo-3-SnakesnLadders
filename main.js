@@ -87,27 +87,3 @@ if (P1.position >=100){
 } else if (P2.position >=100){
     console.log(`\nGanó J2 "${P2.names}"`)
 }
-
-/*
-var S = 100;
-var Tab = [S];
-for(let i = 0; i<S; i++){
-    Tab[i] = -1;
-}
-
-//ladders
-Tab[2] = 21;
-Tab[4]= 7;
-Tab[10]= 25;
-Tab[19]=28;
-
-//Snakes
-Tab[46]=20;
-Tab[98]=70;
-Tab[22]=2;
-Tab[68]=54;
-
-
-
-console.log(Tab)
-*/
